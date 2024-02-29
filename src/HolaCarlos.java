@@ -8,6 +8,7 @@ public class HolaCarlos {
 		
 		String nombre = "Carlos Ojeda";
 		
+		System.out.println("Hola Carlos");
 	}
 
 }
