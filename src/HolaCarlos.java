@@ -6,7 +6,7 @@ public class HolaCarlos {
 
 		System.out.println("Hola Carlos");
 		
-		
+		String nombre = "Carlos Ojeda";
 		
 	}
 
